@@ -1,2 +1,2 @@
 config:
-  environment: dev,version=5
+  environment: dev,version=6
